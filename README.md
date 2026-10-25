@@ -1,4 +1,4 @@
-# URL Shortener
+# Shortly: URL Shortener
 
 A full-stack URL shortener with a React dashboard and an Express API. Users can register, create and manage short links, and inspect recorded click events. Short links redirect through a Redis cache backed by MongoDB.
 
